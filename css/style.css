@@ -1,0 +1,191 @@
+body{
+	font-size: 18px;
+	 background-color: #e0e0e0;
+	 
+}
+header{
+width: 100%;
+background-color: #609ea5;
+text-align: center;
+color: #384545;
+margin-bottom: 70px;
+}
+.main{
+width: auto;
+margin: 0px auto;
+background-color: #689caa;
+height: auto;
+}
+.p1{
+    font-size: 40px;
+    padding: 35px; 
+}
+.p2{
+    font-size: 14px;
+    margin: 0 10px;
+}
+*{
+	overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+
+.full_body {
+	 width: 1200px;
+}
+
+.left_part {
+margin-left: 24px;
+float: left;
+width: 33%;
+background-color: #e0e0e0;     
+}
+.login_info{
+
+}
+.p11{
+    margin-top: 35px;
+   margin: 2px 20px;
+font-size: 29px;
+color: #291e1e;
+}
+.p12{
+ font-size: 11px;
+margin: 7px 20px;
+color: #4a3a3a;
+}
+
+.login{
+
+}
+.login_username {  
+    border-radius: 5px;
+    border: 1px solid grey;  
+    width: 85%;
+    padding: 5px;
+    margin: 10px 0px;
+}
+
+.login_password {
+    border-radius: 5px;
+    border: 1px solid grey;    
+    width: 85%;
+    padding: 5px;
+    margin: 10px 0px;
+}
+
+.login_button {
+    border-radius: 5px;
+    border: 1px solid grey;    
+    background: #055fa7;
+    color: #fff;
+    font-size: 18px;
+    width: 85%;
+    padding: 5px;
+    margin: 10px 0px;
+    margin-bottom: 50px;
+}
+
+.another_way {
+	color:#fff; 
+	 background-color: #6a9ca2;
+}
+.p13{
+     text-align: center;
+     margin: 10px;
+}
+.another_way ul{
+     list-style: none;
+     margin-bottom: 40px;
+}
+.another_way ul li{
+    float: left;
+}
+.another_way ul li a {
+      float: left;
+    list-style-type: none;
+    box-sizing: border-box;
+    padding: 8px;
+    color: #fff;
+    text-decoration: none;
+}
+#fb{
+   background-color:  #222250;
+   margin: 5px;
+}
+#tw{
+    margin: 5px;
+    background: #288dbb;
+}
+#ggl{
+    margin: 5px;   
+    background: #ce2e2e;
+}
+.right_part {
+float: right;
+width: 38%;
+background-color: #d7e6e5;
+margin-right: 0px;
+margin-bottom: 61px
+}
+.sign_up{
+
+}
+.p111{
+    margin: 5px 20px;
+    font-size: 25px;
+    color: #8b8b8b;
+}
+
+.p222{
+    font-size: 15px;
+    margin: 5 20px;
+    color: #8b8b8b;
+}
+.signup{
+
+}
+.first_name{
+    border-radius: 5px;
+    border: 1px solid grey;    
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+}
+
+.last_name{
+    border-radius: 5px;
+    border: 1px solid grey;    
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+}
+
+.email{
+    border-radius: 5px;
+    border: 1px solid grey;    
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+}
+
+.about_yourself{
+    border-radius: 5px;
+    border: 1px solid grey;    
+    width: 90%;
+    padding: 5 5 50px;
+    margin: 10px;
+}
+
+.sign_up_button{
+    border-radius: 5px;
+    border: 1px solid grey;    
+    background: #055fa7;
+    color: #fff;
+    font-size: 18px;
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+    margin-bottom: 40px;
+}
